@@ -1,0 +1,12 @@
+[
+  {"name": "Apple", "quantity": 15, "price": 25},
+  {"name": "Pear", "quantity": 8, "price": 30},
+  {"name": "Orange", "quantity": 20, "price": 40},
+  {"name": "Banana", "quantity": 12, "price": 22},
+  {"name": "Kiwi", "quantity": 5, "price": 55},
+  {"name": "Pineapple", "quantity": 2, "price": 120},
+  {"name": "Grapes", "quantity": 18, "price": 35},
+  {"name": "Mango", "quantity": 4, "price": 95},
+  {"name": "Plum", "quantity": 10, "price": 28},
+  {"name": "Peach", "quantity": 7, "price": 45}
+]
